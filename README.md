@@ -7,6 +7,7 @@ Programmas iespējams pielietojums:
 
 Specifikācijai jābūt šeit:
 
-Iepirkumu saraksts
+   Iepirkumu saraksts
 
 Ir jābut vietai pašam sarakstam, pirkumu sarakstam. 
+Ar jābūt funkcijam, kas varētu mums palidzēt stradāt ar sarakstu.
