@@ -12,3 +12,4 @@ Specifikācijai jābūt šeit:
 Ir jābūt vietai pašam sarakstam, pirkumu sarakstam. 
 Ar jābūt funkcijam, kas varētu mums palidzēt stradāt ar sarakstu.
 Ir jābūt iespējai pievienot kaut-ko, noņemt kaut-ko, kā arī paradīt visu sarakstu.
+Arī ir jabūt tā, lai izmantotjas varētu izvelēties preci no saraksta, izmantojot ciparus.
