@@ -6,3 +6,7 @@ Programmas iespējams pielietojums:
 - viesu saraksts
 
 Specifikācijai jābūt šeit:
+
+Iepirkumu saraksts
+
+Ir jābut vietai pašam sarakstam, pirkumu sarakstam. 
